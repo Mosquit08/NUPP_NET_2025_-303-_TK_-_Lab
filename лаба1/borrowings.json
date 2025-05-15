@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "1b5234de-83c1-479e-98ce-12e059bb4a57",
+    "ReaderId": "8ec762c6-7479-4a32-8cea-f53c9bdbef7c",
+    "ItemId": "5acbfc88-8a63-4f94-8dbb-81e268fe6398",
+    "BorrowDate": "2025-05-15T01:38:46.7166741+03:00",
+    "ReturnDate": "2025-05-15T01:38:46.7414399+03:00",
+    "IsReturned": true
+  }
+]
