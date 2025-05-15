@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "8ec762c6-7479-4a32-8cea-f53c9bdbef7c",
+    "FirstName": "\u0418\u0432\u0430\u043D",
+    "LastName": "\u0418\u0432\u0430\u043D\u043E\u0432",
+    "Email": "ivan@example.com",
+    "PhoneNumber": "\u002B7-999-123-45-67",
+    "RegistrationDate": "2025-05-15T01:38:46.7101039+03:00",
+    "BorrowedItems": []
+  },
+  {
+    "Id": "bacbc197-0697-48b5-a10f-a7de06df428e",
+    "FirstName": "\u041F\u0435\u0442\u0440",
+    "LastName": "\u041F\u0435\u0442\u0440\u043E\u0432",
+    "Email": "petr@example.com",
+    "PhoneNumber": "\u002B7-999-765-43-21",
+    "RegistrationDate": "2025-05-15T01:38:46.7164391+03:00",
+    "BorrowedItems": []
+  }
+]
